@@ -73,6 +73,7 @@ The steps are the following:
    conda activate ./venv
    ```
 
+   Note that this environment is stored inside the root directory of your project. Whenever you want to activate this environment, you will have to navigate into this root directory and then run the above command.
 4. To deactivate the environment, simply run the following:
 
    ```{bash}
